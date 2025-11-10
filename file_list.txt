@@ -1,0 +1,10 @@
+total 16
+drwxrwxr-x 2 zarwak zarwak 4096 Nov 10 23:30 bin
+-rw-rw-r-- 1 zarwak zarwak    0 Nov 10 23:30 cat
+-rw-r--r-- 1 zarwak zarwak    0 Nov 10 23:39 echo
+-rw-rw-r-- 1 zarwak zarwak    0 Nov 10 23:40 file_list.txt
+-rw-rw-r-- 1 zarwak zarwak    0 Nov 10 23:28 files.txt
+drwxrwxr-x 2 zarwak zarwak 4096 Nov 10 23:34 include
+-rw-rw-r-- 1 zarwak zarwak    0 Nov 10 23:36 ls
+-rwxrwxr-x 1 zarwak zarwak  977 Nov 10 22:56 Makefile
+drwxrwxr-x 2 zarwak zarwak 4096 Nov 10 23:33 src
